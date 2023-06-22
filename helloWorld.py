@@ -1,1 +1,1 @@
-print ('Hello world my name is Isaac')
+print ('New Hello world')
