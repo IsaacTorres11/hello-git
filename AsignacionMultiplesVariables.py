@@ -4,6 +4,7 @@
 name, lastName, age = 'Isaac' , 'Torres' , 28
 
 street = 'yucatan'
+numberStreet = 78
 #print(name)
 #print(lastName)
 
